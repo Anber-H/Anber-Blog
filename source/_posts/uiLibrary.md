@@ -1,5 +1,5 @@
 ---
-title: 搭建前端UI组件库并发布
+title: 搭建前端UI组件库
 date: 2020-05-28 18:16:11
 tags:
 ---
@@ -8,7 +8,7 @@ tags:
 ```
 vue create demo
 ```
-
+<!--more-->
 # 创建的时候选择：(也可根据自己需求选择)
 ```
 Manually select features
@@ -23,7 +23,6 @@ Lint on save->In package.json
 ↓
 no
 ```
-<!--more-->
 # 启动项目
 cd demo
 yarn serve
