@@ -1,0 +1,49 @@
+# Creative Commons / 文章版权
+creative_commons:
+  license: by-nc-nd
+  post: true
+  language: deed.zh
+
+# 返回顶部按钮
+back2top:
+  enable: true
+  # 是否在侧边栏显示
+  sidebar: true
+  # 是否显示页面浏览百分比
+  scrollpercent: true
+
+# Tag 标签前图标修改
+tag_icon: true
+
+# 背景彩带
+canvas_ribbon:
+  enable: true
+  vendors:
+  canvas_ribbon: //cdn.jsdelivr.net/gh/theme-next/theme-next-canvas-ribbon@1/canvas-ribbon.js
+
+# symbols_count_time 节点
+symbols_count_time:
+  separated_meta: true
+  item_text_post: true
+  item_text_total: false
+  awl: 4
+  wpm: 275
+  suffix: mins.
+
+# 在站点右上角添加 GitHub 标识
+github_banner:
+  enable: true
+  permalink: https://github.com/Anber-H
+  title: Follow me on GitHub
+
+# 图片延迟加载
+lazyload:
+  enable: true
+  onlypost: false
+  loadingImg: /uploads/loading.gif
+
+footer:
+  powered: false
+  theme:
+    enable: false
+    version: false
